@@ -95,7 +95,7 @@ GPO Enforced — Control Panel Blocked![image alt](https://github.com/Aryaan314/
 - Oracle VirtualBox
 - Windows Server 2022 (Evaluation)
 - Windows 11 Pro
-- Draw.io (network diagram)
+- Draw.io (Network Diagram)
 
 ---
 
