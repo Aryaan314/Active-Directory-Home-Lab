@@ -51,6 +51,7 @@ Client IP Config![image alt](https://github.com/Aryaan314/Active-Directory-Home-
 
 Connectivity Test![image alt](https://github.com/Aryaan314/Active-Directory-Home-Lab/blob/658104a8afcaeb27547917787d5e89990bc9698c/PJ%20Image%205.png)
 *Verifying connectivity from PC01 with `ping` and `nslookup` against the domain controller — the nslookup query timed out briefly on the first attempt but still resolved lab.local correctly before proceeding with the domain join.*
+
 Domain Join Confirmation![image alt](https://github.com/Aryaan314/Active-Directory-Home-Lab/blob/658104a8afcaeb27547917787d5e89990bc9698c/PJ%20Image%207.png)
 *Settings → System → About on PC01 showing the full device name as `PC01.lab.local`, confirming a successful domain join.*
 
