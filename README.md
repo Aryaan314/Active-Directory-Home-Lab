@@ -83,7 +83,7 @@ GPO Enforced — Control Panel Blocked![image alt](https://github.com/Aryaan314/
 - Organizational Unit structure & user/group administration
 - Group Policy creation and enforcement
 - Client-side domain join troubleshooting (static IP, DNS resolution, connectivity testing)
-- Network diagramming (draw.io)
+- Network Diagramming (Draw.io)
 
 ## Common Issues I Ran Into
 
@@ -95,7 +95,7 @@ GPO Enforced — Control Panel Blocked![image alt](https://github.com/Aryaan314/
 - Oracle VirtualBox
 - Windows Server 2022 (Evaluation)
 - Windows 11 Pro
-- draw.io (network diagram)
+- Draw.io (network diagram)
 
 ---
 
