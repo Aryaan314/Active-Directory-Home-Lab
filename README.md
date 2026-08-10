@@ -54,7 +54,7 @@ Connectivity Test![image alt](https://github.com/Aryaan314/Active-Directory-Home
 Domain Join Confirmation![image alt](https://github.com/Aryaan314/Active-Directory-Home-Lab/blob/658104a8afcaeb27547917787d5e89990bc9698c/PJ%20Image%207.png)
 *Settings → System → About on PC01 showing the full device name as `PC01.lab.local`, confirming a successful domain join.*
 
-Domain Login![image alt](https://github.com/Aryaan314/Active-Directory-Home-Lab/blob/658104a8afcaeb27547917787d5e89990bc9698c/PJ%20Image%206.png)
+Domain Login![image alt](https://github.com/Aryaan314/Active-Directory-Home-Lab/blob/098783b2c5f1b463c2fa153b6ab9e4db641f7613/New%20PJ%20Image%206.png)
 *PC01 login screen post domain-join, ready to authenticate with a domain account.*
 
 ## Project 2: DHCP, Organizational Units & Group Policy
