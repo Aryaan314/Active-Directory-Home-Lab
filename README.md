@@ -100,4 +100,4 @@ GPO Enforced — Control Panel Blocked![image alt](https://github.com/Aryaan314/
 
 ---
 
-*Built by Aryaan Sheikh — [LinkedIn](https://www.linkedin.com/in/aryaan-sheikh-74b29120b/) · [Resume](Aryaan%20Sheikh%20Resume.pdf)*
+*Built by Aryaan Sheikh — [LinkedIn](https://www.linkedin.com/in/aryaan-sheikh-74b29120b/) · [Resume](Aryaan_Sheikh_Resume.pdf)*
