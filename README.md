@@ -22,6 +22,24 @@ I wanted hands-on proof of the concepts covered in my Google IT Support Professi
 | Domain | `lab.local` |
 | Network | Internal Network (`intnet`), `192.168.10.0/24` |
 
+## Table of Contents
+- [Why I Built This](#why-i-built-this)
+- [Network Diagram](#network-diagram)
+- [Environment](#environment)
+- [Project 1: Active Directory Domain Controller Build](#project-1-active-directory-domain-controller-build)
+  - [VM Environment](#vm-environment)
+  - [Domain Controller Configuration](#domain-controller-configuration)
+  - [Promoting to Domain Controller](#promoting-to-domain-controller)
+  - [Verifying Active Directory](#verifying-active-directory)
+  - [Client Configuration & Domain Join](#client-configuration--domain-join)
+- [Project 2: DHCP, Organizational Units & Group Policy](#project-2-dhcp-organizational-units--group-policy)
+  - [DHCP](#dhcp)
+  - [Organizational Units, Users & Groups](#organizational-units-users--groups)
+  - [Group Policy Enforcement](#group-policy-enforcement)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Common Issues I Ran Into](#common-issues-i-ran-into)
+- [Tools Used](#tools-used)
+
 ## Project 1: Active Directory Domain Controller Build
 
 **Goal:** Stand up a functioning domain controller with AD DS + DNS, then join a client machine to the domain.
