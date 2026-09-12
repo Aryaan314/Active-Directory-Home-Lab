@@ -2,6 +2,24 @@
 
 A self-built Windows Server home lab demonstrating core sysadmin/helpdesk skills: Active Directory Domain Services, DNS, DHCP, Organizational Units, Group Policy, and domain-joined client management — built entirely from scratch using VirtualBox.
 
+## Table of Contents
+- [Why I Built This](#why-i-built-this)
+- [Network Diagram](#network-diagram)
+- [Environment](#environment)
+- [Project 1: Active Directory Domain Controller Build](#project-1-active-directory-domain-controller-build)
+  - [VM Environment](#vm-environment)
+  - [Domain Controller Configuration](#domain-controller-configuration)
+  - [Promoting to Domain Controller](#promoting-to-domain-controller)
+  - [Verifying Active Directory](#verifying-active-directory)
+  - [Client Configuration & Domain Join](#client-configuration--domain-join)
+- [Project 2: DHCP, Organizational Units & Group Policy](#project-2-dhcp-organizational-units--group-policy)
+  - [DHCP](#dhcp)
+  - [Organizational Units, Users & Groups](#organizational-units-users--groups)
+  - [Group Policy Enforcement](#group-policy-enforcement)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Common Issues I Ran Into](#common-issues-i-ran-into)
+- [Tools Used](#tools-used)
+
 ## Why I built this
 
 I wanted hands-on proof of the concepts covered in my Google IT Support Professional Certificate and IS&T coursework, so I built a working two-machine domain environment: a Windows Server domain controller and a domain-joined Windows client, then layered on DHCP, user/group management, and Group Policy enforcement.
@@ -21,24 +39,6 @@ I wanted hands-on proof of the concepts covered in my Google IT Support Professi
 | Client | Windows 11 Pro — `PC01` |
 | Domain | `lab.local` |
 | Network | Internal Network (`intnet`), `192.168.10.0/24` |
-
-## Table of Contents
-- [Why I Built This](#why-i-built-this)
-- [Network Diagram](#network-diagram)
-- [Environment](#environment)
-- [Project 1: Active Directory Domain Controller Build](#project-1-active-directory-domain-controller-build)
-  - [VM Environment](#vm-environment)
-  - [Domain Controller Configuration](#domain-controller-configuration)
-  - [Promoting to Domain Controller](#promoting-to-domain-controller)
-  - [Verifying Active Directory](#verifying-active-directory)
-  - [Client Configuration & Domain Join](#client-configuration--domain-join)
-- [Project 2: DHCP, Organizational Units & Group Policy](#project-2-dhcp-organizational-units--group-policy)
-  - [DHCP](#dhcp)
-  - [Organizational Units, Users & Groups](#organizational-units-users--groups)
-  - [Group Policy Enforcement](#group-policy-enforcement)
-- [Skills Demonstrated](#skills-demonstrated)
-- [Common Issues I Ran Into](#common-issues-i-ran-into)
-- [Tools Used](#tools-used)
 
 ## Project 1: Active Directory Domain Controller Build
 
